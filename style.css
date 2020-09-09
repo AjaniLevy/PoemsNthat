@@ -1,0 +1,54 @@
+html {
+    font-family: "Poppins";
+    background-color: #d89c05;
+    margin: none;
+    padding: none;
+    border-style:outset;
+}
+a {
+    background-color: #FFEBCD;
+    color: black;
+}
+#Online-Presence {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+h1 {
+    color: #FFEBCD;
+    font-size: 30px;
+    text-align: center;
+    line-height: 155px;
+    text-decoration-style: dotted;
+}
+h2{
+    color: #FFEBCD;
+    font-size: 30px;
+}
+ul {
+    list-style-type:square;
+    list-style-position: inside;
+}
+h3{
+    color: #FFEBCD;
+    font-size: 30px;
+}
+h4, h5{
+    color: #FFEBCD;
+    font-size: 30px;
+    text-align: center;
+}
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0em;
+    padding: 0em;
+    align-items: center;
+}
+footer {
+    font-size: 18px;
+    font-family: "Times New Roman";
+    text-align: center;
+    padding: 21rem;
+}
